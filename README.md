@@ -13,7 +13,7 @@ La cafetière sortit donc faire un tour en sifflotant...
 ![ornithorynques](http://www.larousse.fr/encyclopedie/data/images/1003003-Ornithorynque.jpg)
 
 
-Pendant ce temps, *l'ornithynque* continua de compter les pingouins. 11 pingouins, 12 pingouins, etc... Celui-ci se demanda comment autants de pingouins pouvait se retrouver dans un climat aussi chaud , ceux-ci étant habitué a la banquise.
+Pendant ce temps, *l'ornithynque* continua de compter les pingouins. 11 pingouins, 12 pingouins, etc... Celui-ci se demanda comment autant de pingouins pouvaient se retrouver dans un climat aussi chaud, ceux-ci étant habitués à la banquise.
 
 *L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de son poids,*_ce qui lui demande de passer en moyenne 12 heures par jour dans l'eau pour cette activité._
 
