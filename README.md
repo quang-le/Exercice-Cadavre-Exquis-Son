@@ -16,3 +16,5 @@ La cafetière sortit donc faire un tour en sifflotant...
 Pendant ce temps, *l'ornithynque* continua de compter les pingouins. 11 pingouins, 12 pingouins, etc... Celui-ci se demanda comment autants de pingouins pouvait se retrouver dans un climat aussi chaud , ceux-ci étant habitué a la banquise.
 
 *L'ornithorynque est un animal carnivore qui a besoin de consommer tous les jours l'équivalent en nourriture de 20 % de son poids,*_ce qui lui demande de passer en moyenne 12 heures par jour dans l'eau pour cette activité._
+
+#Alors, est-ce un canard ? Est-ce un castor ? Est-ce un psykokwak ? Enquête (presque) sur le terrain à la découverte de cette créature qui, une chose est certaine, aime qu’on lui gratouille le ventre.
