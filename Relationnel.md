@@ -6,7 +6,7 @@
 * cohésion de groupe
 * relations de groupe
 
-#Environnement d'Apprentissage Optimisé#
+#Conditions pour un environnement d'apprentissage optimisé#
 
 1. L'éclairage 
    - Pencher pour un éclairage **naturel** plutôt qu'**artificiel** peut jouer sur la capacité    a se concentrer sur ce que l'on fait.
