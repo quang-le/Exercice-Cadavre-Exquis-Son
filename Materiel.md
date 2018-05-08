@@ -44,3 +44,7 @@ Variété
 Changer la disposition des lieux, voire changer de lieu d'apprentissage de manière à garder la curiosité éveillée.
 
 ![TheOffice](https://media.giphy.com/media/3QOXS6VCy92rm/giphy.gif)
+
+### Et les autres?
+
+L'environnement de travail c'est aussi beaucoup [d'éléments relationnels](https://github.com/quang-le/exercice-markdown/blob/developpement/Relationnel.md)
