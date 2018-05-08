@@ -3,7 +3,7 @@
 
 Matériel:
  
- - Niveau sonore
+ - Niveau sonore **new test**
  - Sécurité
  - Confort (température etc) **et encore un test**
  - Infrastructure (connection, ordinateurs etc)
