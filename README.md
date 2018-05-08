@@ -1,6 +1,6 @@
 #Exercice Markdown - 08/08/2018#
 
-Participants: Son, Mostapha, Dylan, Gally
+Participants: Son, Mostapha, Dylan, Gally, Andrea
 
 Projet: Créer un mémo qui explique le markdown et son utilité.
 
