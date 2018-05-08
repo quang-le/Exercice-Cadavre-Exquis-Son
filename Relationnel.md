@@ -38,7 +38,6 @@ Cela permet de garder une certaine *cohésion de groupe* et ainsi maintenir
 *une relation saine* avec ce dernier. 
 
 ![Garde la pêche](https://78.media.tumblr.com/69a9306ad33e5efb2f4aae7a8ffc8040/tumblr_oxjvg62IOA1rqiyiyo1_500.gif) 
-<<<<<<< HEAD
 
 * **La réciprocité** :   
 Pour que chacun soit sur un pied d'égalité au sein du groupe, il est important que offre aux autres ce qu'il ou elle attend d'eux: Je donne mon avis librement et je donne aux autres l'espace nécessaire pour exprimer le leur. 
