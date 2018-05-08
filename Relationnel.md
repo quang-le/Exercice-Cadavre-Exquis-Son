@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aspects relationnels de l'EAO#
 
 * respect des autres
@@ -18,8 +18,6 @@
 
 
 =======
-=======
->>>>>>> 2cdb9b9050092d06143a4a39bf0d994b1525c377
 ## Aspects relationnels de l'EAO 
  
 Il arrive parfois que ces mêmes environnements mettent en scène  
@@ -51,5 +49,4 @@ Pour que chacun soit sur un pied d'égalité au sein du groupe, il est important
  
 
 
-=======
->>>>>>> 2cdb9b9050092d06143a4a39bf0d994b1525c377
+
