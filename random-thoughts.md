@@ -1,11 +1,13 @@
 
+**Voilà la ligne que j'ai ajoutée**
+
 Matériel:
  
  - Niveau sonore
  - Sécurité
- - Confort (température etc)
+ - Confort (température etc) **et encore un test**
  - Infrastructure (connection, ordinateurs etc)
- - possibility to adapt to each pax' learning style
+ - [!Aaargh](https://giphy.com/gifs/dragon-ball-z-UXYsP0XV9jTY4)
 
 Relationnel:
 
