@@ -1,14 +1,14 @@
 #Exercice Markdown - 08/08/2018#
 
-Participants: Son, Mostapha, Dylan, Gally
+Participants: Son, Mostapha, Dylan, Gally, Andrea
 
-Projet: Créer un mémo qui explique le markdown et son utilité.
+Projet: Créer un mémo qui explique ce qu'est un Environnement Optimisé d'Apprentissage.
 
 Objectifs: 
  1. Le groupe doit utiliser le système des branches de Git pour travailler collaborativement ce contenu.
- 2. Contenu : un pense-bête (un memo) de soit:
+ 2. Contenu : un pense-bête (un memo) de:
 
-   * ce qu'est le MarkDown et un inventaire de sa syntaxe, le plus complet possible.
+   
    * une description de ce qu'est un Environnement Optimisé pour l' Apprentissage
    * une liste à puces
    * une liste numérotée
