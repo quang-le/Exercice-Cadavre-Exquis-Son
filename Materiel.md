@@ -40,10 +40,10 @@ Selon l'enquête menée par le Service Externe de Prévention et de Protection A
 
 Pencher pour un éclairage **naturel** plutôt qu'**artificiel** peut jouer sur la capacité    a se concentrer sur ce que l'on fait.
 
-### Temperature corporelle
+#### Temperature corporelle
 Une temperature trop **chaude** ou trop **froide** peut egalement avoir un impact sur la concentration autant que sur l'énergie dépensée a se réchauffer ou se rafraîchir.
 
-### Apporter de la variété
+#### Apporter de la variété
 Variété
 Changer la disposition des lieux, voire changer de lieu d'apprentissage de manière à garder la curiosité éveillée.
 
