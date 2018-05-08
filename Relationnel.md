@@ -15,8 +15,6 @@
    - Une temperature trop **chaude** ou trop **froide** peut egalement avoir un impact sur la concentration autant que sur l'énergie dépensée a se réchauffer ou se rafraîchir.
 
 
-
-
 =======
 ## Aspects relationnels de l'EAO 
  
@@ -45,7 +43,7 @@ Cela permet de garder une certaine *cohésion de groupe* et ainsi maintenir
 * **La réciprocité** :   
 Pour que chacun soit sur un pied d'égalité au sein du groupe, il est important que offre aux autres ce qu'il ou elle attend d'eux: Je donne mon avis librement et je donne aux autres l'espace nécessaire pour exprimer le leur. 
 
-! [Free Speech] (https://media.giphy.com/media/LPIzIXDWIfpq8/giphy.gif)
+![Free Speech] (https://media.giphy.com/media/LPIzIXDWIfpq8/giphy.gif)
  
 
 
