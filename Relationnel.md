@@ -42,6 +42,12 @@ Cela permet de garder une certaine *cohésion de groupe* et ainsi maintenir
 * **La réciprocité** :   
 Pour que chacun soit sur un pied d'égalité au sein du groupe, il est important que offre aux autres ce qu'il ou elle attend d'eux: Je donne mon avis librement **et** je donne aux autres l'espace nécessaire pour exprimer le leur. 
 
+# Mais aussi :
+
+* Les [aspects matériels de l'EAO](https://github.com/quang-le/exercice-markdown/blob/developpement/Materiel.md)
+
+
+
  
 
 
