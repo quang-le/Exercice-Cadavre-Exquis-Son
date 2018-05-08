@@ -10,7 +10,7 @@
 
 La climatisation est source de nombreux bienfaits sur le plan du bien-être et de la santé, mais elle n’est pas sans risques. Pour l’utiliser de façon judicieuse et sécuritaire, mieux vaut être bien informé. Si vous avez besoin de renseignements ou de conseils sur les mesures à prendre pour demeurer en santé durant l’été, n’hésitez pas à consulter votre pharmacien.
 
-#### [Les couleurs de mon bureau ont-elles un effet sur mon humeur ?] (https://www.multiluminaire.ca/blog/post/l-influence-des-couleurs-sur-notre-humeur/)
+#### [Les couleurs de mon bureau ont-elles un effet sur mon humeur ?](https://www.multiluminaire.ca/blog/post/l-influence-des-couleurs-sur-notre-humeur/)
 
 Si une couleur vous fait ressentir une émotion, il serait intéressant d'en tenir compte lorsque vous allez effectuer un changement de peinture pour votre demeure. Toutefois, il faut prendre en compte que les couleurs peuvent être perçues différemment selon la culture. 
 
