@@ -6,12 +6,13 @@
 * *imported files from other git-related exercises*
 * *updated README.md*
 
-1. Description
+1. **Description**
 This repo hosts all the git-related exercises from the "Prairie" phase of the BeCode training.
 This exercises were first done each on a dedicated repo. I have regrouped them here for clarity and to avoid cluttering my Github.
 *Note: so far I have just copied the final files, I will update the repo with files AND their history at a later date*
 
-2. Exercises
+2. **Exercises**
+
     1. personal_page
     * Objective: create a personal page and deploy it on Github Pages. Full instructions: [here](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/01-La-prairie/exercice-markdown-individuel.md)
     * Outcomes:
