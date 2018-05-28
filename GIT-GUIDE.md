@@ -1,4 +1,4 @@
-#**GUIDE GIT+GITHUB**#
+# **GUIDE GIT+GITHUB**
 
 1. **Repo setup**
 
@@ -32,6 +32,8 @@
 
   * Merge conflict: `git commit -a`, then open file, make corrections, add, commit, push.
   * Rollback: **TO BE LEARNED BY 11/05**
+
 5. **Misc**
 
-  * Acces repos you've been invited to : Go to Gthub -> Right corner drop-down list (with profile) -> Settings
+  * Acces repos you've been invited to : Go to Github -> Right corner drop-down list (with profile) -> Settings
+  * Move files from one repo to another without losing history **TO BE LEARNED**
