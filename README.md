@@ -23,10 +23,11 @@ This exercises were first done each on a dedicated repo. I have regrouped them h
 
     2. cadavre_exquis
     * Objective: work collaboratively on a markdown document using git. Full instructions [here](https://github.com/becodeorg/lovelace-2/blob/master/Parcours/01-La-prairie/git/exercice-git-cadavre-exquis.md)
-    * Outcomes: created a repo
-    * created a branch on other participants repo and invited other participants to create branches on my repo
-    * used a "Developpement" branch
-    * managed merge conflicts
+    * Outcomes: 
+        * created a repo
+        * created a branch on other participants repo and invited other participants to create branches on my repo
+        * used a "Developpement" branch
+        * managed merge conflicts
 
 
     3. intelligence_collective
