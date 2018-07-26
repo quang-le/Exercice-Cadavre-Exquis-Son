@@ -42,7 +42,7 @@ This exercises were first done each on a dedicated repo. I have regrouped them h
         * managed merge conflicts
      
         
-3. Next step
+3. Next step: 
 Move files from original repo to this one while preserving file history 
 *update 26/07/2018:*
 
