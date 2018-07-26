@@ -1,7 +1,6 @@
-#Déplacer des dossiers d'un repo à un autre sans perdre l'historique
+# Déplacer des dossiers d'un repo à un autre sans perdre l'historique
 
-0. En deux mots
-Il va falloir:
+0. **En deux mots, il va falloir:**
 - Cloner le repo d'origine dans un dossier local temporaire
 - Isoler les fichiers à garder
 - Copier les fichiers dans le repo de destination
@@ -11,7 +10,7 @@ Il y a aussi  quelques précautions à prendre pour éviter que des erreurs de m
 
 La méthode décrite ci-dessous est un résumé/traduction/compte-rendu d'expérience de la méthode décrite par mcarans sur [StackOverflow](https://stackoverflow.com/questions/1365541/how-to-move-files-from-one-git-repo-to-another-not-a-clone-preserving-history).
 
-1. Préparer les fichiers
+1. **Préparer les fichiers**
 Soit A: le repo à déplacer
 Et B, le repo de destination
 
@@ -48,7 +47,7 @@ Je n'ai pas trouvé ce qui causait cette erreur, mais ça n'a pas empĉhé la su
 
 Pas besoin du `push` vu qu'on a plus de lien avec origin.
 
-2. La migration
+2. **La migration**
 
 - Si vous ne l'avez pas en local, clonez le repo B:
 `git clone <lien vers le repo B>`
