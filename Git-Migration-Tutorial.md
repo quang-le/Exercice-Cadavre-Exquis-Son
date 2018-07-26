@@ -8,7 +8,7 @@
 
 Il y a aussi  quelques précautions à prendre pour éviter que des erreurs de manipulation ne mettent le chaos dans le repo d'origine.
 
-La méthode décrite ci-dessous est un résumé/traduction/compte-rendu d'expérience de la méthode décrite par mcarans sur [StackOverflow](https://stackoverflow.com/questions/1365541/how-to-move-files-from-one-git-repo-to-another-not-a-clone-preserving-history).
+La méthode décrite ci-dessous est un résumé/traduction/compte-rendu d'expérience de la méthode décrite par *mcarans* sur [StackOverflow](https://stackoverflow.com/questions/1365541/how-to-move-files-from-one-git-repo-to-another-not-a-clone-preserving-history).
 
 1. **Préparer les fichiers**
 Soit A: le repo à déplacer
