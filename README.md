@@ -1,10 +1,14 @@
 # Git exercises
 *created 07/05/2018 by quang-le*
-*last update 28/05/2018:*
+*last update 26/07/2018*
+* *moved files from `exercice-markdown` repo. This repo will now be deleted*
+
+*update 28/05/2018:*
 * *changed repo name to Git*
 * *created 1 folder for each exercise*
 * *imported files from other git-related exercises*
 * *updated README.md*
+
 
 1. **Description**
 This repo hosts all the git-related exercises from the "Prairie" phase of the BeCode training.
@@ -39,4 +43,8 @@ This exercises were first done each on a dedicated repo. I have regrouped them h
      
         
 3. Next step
-Move files from original repo to this one while preserving file history
+Move files from original repo to this one while preserving file history 
+*update 26/07/2018:*
+
+The repo `exercice-markdown` has been migrated into this one, while preserving history.
+The file *Git-Migration-Tutorial* describes (in french) the steps I followed, with links to the original source on stack overflow.
